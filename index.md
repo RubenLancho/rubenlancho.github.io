@@ -1,0 +1,7 @@
+I am a highly skilled and motivated software developer with a passion for creating performant and functional applications. With 6 years of experience in the industry, I have gained a deep understanding of software development principles, best practices, and emerging technologies.
+
+My expertise lies in the TypeScript, JavaScript and Python ecosystem, data modelling and front-end development, I'm able to do any required task on the back-end with Python and .Net. I have a solid foundation in frameworks such as Angular and I have successfully delivered numerous projects, collaborating closely with cross-functional teams to translate design concepts into production-ready code.
+
+What sets me apart is my ability to understand the flow of data within complex systems combined with my strong technical skills and work ethic. I have a deep appreciation for creating functional and well tested products that fulfil business needs and requirements.
+
+In addition to my technical abilities, I possess excellent organisational skills, attention to detail, and the ability to prioritise and manage multiple projects simultaneously. I am dedicated to delivering high-quality work on time and within budget, taking pride in exceeding expectations.
