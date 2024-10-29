@@ -29,7 +29,7 @@ Antes de empujar imágenes Docker a GHCR, debemos iniciarnos usando Docker con n
 ```bash
 docker login --username mert2m --password your_personal_access_token ghcr.io
 ```
-**Paso 3: Construyendo e Impulsando Imágenes Docker**
+**Paso 3: Construyendo y subiendo Imágenes Docker**
 ------------------------------------------------
 
 Ahora, construya su imagen Docker y empéjalos a GHCR:
@@ -39,7 +39,7 @@ Ahora, construya su imagen Docker y empéjalos a GHCR:
 * Etiquete la imagen con la URL del repositorio de GHCR y la versión.
 * Empuje la imagen utilizando el comando `docker push`.
 
-**Ejemplo de Comandos Docker Build e Impulsar**
+**Ejemplo de Comandos Docker Build y subiendo**
 ```bash
 docker build . -t ghcr.io/mert2m/actions-runner-controller-ghcr:latest
 docker push ghcr.io/mert2m/actions-runner-controller-ghcr:latest
